@@ -1,5 +1,5 @@
 package lab1;
-// Imports the scanner to receive input
+// Imports the scanner and FinanceLib
 import java.util.Scanner;
 import org.apache.poi.ss.formula.functions.FinanceLib;
 
